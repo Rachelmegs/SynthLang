@@ -1,29 +1,7 @@
 {
-  "schema": "WorkspaceOS.RepoPassport.v0.1",
   "repository": "Rachelmegs/SynthLang",
   "owner": "Rachelmegs",
   "default_branch": "main",
-  "governance_status": "root_hygiene_draft_pr_pending_review",
-  "agent_policy": {
-    "read_before_write": true,
-    "draft_pr_required": true,
-    "human_merge_required": true,
-    "blocked_actions": [
-      "merge",
-      "auto_merge",
-      "force_ref_update",
-      "secret_change",
-      "deployment",
-      "package_publish",
-      "external_registry_mutation"
-    ]
-  },
-  "evidence_requirements": [
-    "scope_summary",
-    "files_changed",
-    "validation_performed",
-    "known_limits",
-    "rollback_plan"
-  ],
-  "last_workspace_review": "2026-05-12"
+  "status": "root_hygiene_draft",
+  "review_date": "2026-05-12"
 }
