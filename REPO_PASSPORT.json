@@ -1,7 +1,6 @@
 {
-  "repository": "Rachelmegs/SynthLang",
+  "repo": "Rachelmegs/SynthLang",
   "owner": "Rachelmegs",
-  "default_branch": "main",
-  "status": "root_hygiene_draft",
-  "review_date": "2026-05-12"
+  "branch": "main",
+  "review": "2026-05-12"
 }
